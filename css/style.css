@@ -1,0 +1,56 @@
+#img-div{
+    background-color: #f5f5f0;
+    border:10px solid #ebebe0;
+    margin-bottom: 10px;
+}
+
+img {
+    box-shadow: 5px 10px 8px #a3a375;
+    padding: 1%;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    object-fit: contain;
+}
+
+#img-caption{
+    margin:15px;
+    font-family: 'Gwendolyn', cursive;
+    font-size: 30px;
+    color: #678983;
+}
+
+h1{
+  font-size: 100px;
+  font-family: 'Rock Salt', cursive;
+  padding: 50px 50px 50px 50px;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+body{
+   background-color: #C3B091;
+   font-family: 'Fuzzy Bubbles', cursive;  
+   
+
+  
+}
+
+h3{
+  font-size: 20px;
+}
+
+blockquote{
+  font-size: 20px;
+}
+
+.main.p{
+  font-family: 'Fuzzy Bubbles', cursive; 
+}
+
+#footer .copyright {
+
+  text-align: center;
+}
